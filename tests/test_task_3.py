@@ -1,4 +1,5 @@
 import pytest
+
 from tasks import validate_positive
 
 
